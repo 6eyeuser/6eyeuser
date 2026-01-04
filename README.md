@@ -60,6 +60,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/>
 </p>
 
+
+---
+##  LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kartik26044?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
+</p>
+
+
+## 🏁 Codeforces Stats
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kartikn_yadav&theme=dark"/>
+</p>
+
+---
+
 ## Contribution Graph
 
 ![Snake animation](https://raw.githubusercontent.com/6eyeuser/6eyeuser/output/github-contribution-grid-snake-dark.svg)
