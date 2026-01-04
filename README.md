@@ -6,7 +6,7 @@
 <h3 align="center">Web3 Developer • Full Stack • Problem Solver</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Building%20the%20future%20of%20the%20web&height=60&fontSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Building%20the%20future%20of%20the%20web&fontColor=ffffff&fontSize=22&height=60"/>
 </p>
 
 ---
@@ -16,8 +16,8 @@
 - 🎓 **B.Tech in Computer Science & Engineering**
 - 🏫 **Bundelkhand Institute of Engineering & Technology (BIET), Jhansi**
 - 📅 **Batch:** 2023 – 2027
-- 🌐 Interested in **Web3, Full Stack & Open Source**
-- ⚙️ Love building **scalable systems & clean UI**
+- 🌐 Interested in **Web3, Full Stack Development & Open Source**
+- ⚙️ Enjoy building **scalable systems & clean UI**
 - 🚀 Exploring **Blockchain × Cloud × AI**
 
 ---
@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6eyeuser&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
-> ⚠️ Language % is based on **public repos only** (GitHub limitation)
+<sub>⚠️ Language stats are based on public repositories only (GitHub limitation).</sub>
 
 ---
 
@@ -60,9 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/>
 </p>
 
----
-
-## 🐍 Contribution Graph (Dark)
+Contribution Graph
 
 ![Snake animation](https://raw.githubusercontent.com/6eyeuser/6eyeuser/output/github-contribution-grid-snake-dark.svg)
 
