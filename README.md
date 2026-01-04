@@ -1,29 +1,26 @@
-<h2 align="center">Hi 👋! My name is Kartik and I'm a Web3 Developer from India 🇮🇳</h2>
+<h2 align="center">Hi 👋, I'm Kartik</h2>
+<h4 align="center">Web3 Developer | Full Stack | Open Source Enthusiast 🇮🇳</h4>
 
-<!-- Header Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&fontColor=FFFFFF&theme=cobalt"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&theme=cobalt"/>
 </p>
 
-<!-- Social Icons -->
+---
+
+### 🌐 Connect with me
+
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/>
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40"/>
+  <a href="https://www.instagram.com/kartikn_yadav/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/laplacesdemon00" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40"/>
-  </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40"/>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 🚀 Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
@@ -41,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
 </p>
 
 ---
@@ -58,24 +54,18 @@
 
 ---
 
-### 📬 Connect With Me
+### 🐍 Contribution Snake
 
-<p align="center">
-  <a href="https://www.instagram.com/kartikn_yadav/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/laplacesdemon00" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
+![Snake animation](https://github.com/6eyeuser/6eyeuser/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
 <p align="right">
-  <img height="150" src="https://imgflip.com/gif/agh5e3"/>
+  <img src="https://i.imgflip.com/agh5e3.gif" height="150"/>
 </p>
 
-<!-- Footer Wave -->
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&fontColor=FFFFFF&theme=cobalt"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=cobalt"/>
 </p>
