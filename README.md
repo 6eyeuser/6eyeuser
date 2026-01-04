@@ -60,7 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/>
 </p>
 
-Contribution Graph
+## Contribution Graph
 
 ![Snake animation](https://raw.githubusercontent.com/6eyeuser/6eyeuser/output/github-contribution-grid-snake-dark.svg)
 
