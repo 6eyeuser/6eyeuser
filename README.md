@@ -62,20 +62,24 @@
 
 
 ---
-##  LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/kartik26044?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
-</p>
+## 🧩 Competitive Programming
 
-
-## 🏁 Codeforces Stats
-
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kartikn_yadav&theme=dark"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>LeetCode</b><br>
+      <img src="https://leetcard.jacoblin.cool/kartik26044?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+    </td>
+    <td align="center">
+      <b>Codeforces</b><br>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kartikn_yadav&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ## Contribution Graph
 
