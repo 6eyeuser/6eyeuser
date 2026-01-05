@@ -102,7 +102,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 ![Snake animation](https://raw.githubusercontent.com/6eyeuser/6eyeuser/output/github-contribution-grid-snake-dark.svg)
 
