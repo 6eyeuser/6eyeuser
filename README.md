@@ -34,15 +34,6 @@
 
 ---
 
-## 🧮 Language Usage
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6eyeuser&layout=compact&theme=dark&hide_border=true&langs_count=6)
-
-<sub>⚠️ Language stats are based on public repositories only.</sub>
-Language stats are based on public repositories only.</sub>
-
----
-
 ## 🧰 Technologies & Tools
 
 ### 💻 Programming Languages
