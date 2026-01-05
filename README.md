@@ -25,8 +25,11 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6eyeuser&show_icons=true&theme=dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6eyeuser&theme=dark&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=6eyeuser&theme=dark&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -103,10 +106,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&theme=transparent"/>
 </p>
----
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=6eyeuser&theme=dark&hide_border=true&format=png)
 
 
