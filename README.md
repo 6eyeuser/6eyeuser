@@ -103,3 +103,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&theme=transparent"/>
 </p>
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=6eyeuser&theme=dark&hide_border=true&format=png)
+
+
+
