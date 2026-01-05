@@ -36,11 +36,10 @@
 
 ## 🧮 Language Usage
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6eyeuser&layout=compact&theme=dark&hide_border=true"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=6eyeuser&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
 <sub>⚠️ Language stats are based on public repositories only.</sub>
+Language stats are based on public repositories only.</sub>
 
 ---
 
