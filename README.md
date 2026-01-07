@@ -28,7 +28,6 @@
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=6eyeuser&theme=dark&hide_border=true"
     height="180"
-    alt="GitHub Streak"
   />
 </p>
 
