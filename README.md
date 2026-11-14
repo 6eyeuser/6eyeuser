@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Kartik 👋</h1>
-  <h3>Web3 Developer | Full Stack | Problem Solver</h3>
+  <h3>Full Stack | Applied AI Engineer | Web3 Developer</h3>
 
   <p>
     <a href="https://discord.com/users/laplacesdemon00" target="_blank">
@@ -9,30 +9,50 @@
     <a href="https://www.instagram.com/kartikn_yadav/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <!-- Add LinkedIn or Twitter/X here for professional networking! -->
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+the+future+of+the+web;Exploring+Blockchain+%C3%97+Cloud+%C3%97+AI;Scalable+Systems+%26+Clean+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Infrastructure;Exploring+Blockchain+%C3%97+Web3;Architecting+Scalable+Full-Stack+Systems" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate developer currently pursuing my **B.Tech in Computer Science & Engineering** at **Bundelkhand Institute of Engineering & Technology (BIET), Jhansi** (Class of 2027). 
+I am a developer pursuing my **B.Tech in Computer Science & Engineering** at **Bundelkhand Institute of Engineering & Technology (BIET), Jhansi** (Class of 2027). I specialize in bridging full-stack web engineering with applied AI.
 
-- 🔭 Currently building **scalable backend systems** and **clean user interfaces**.
-- 🌱 Actively learning and exploring the intersection of **Web3, Cloud computing, and AI**.
-- ⚡ Fun fact: I love solving complex algorithms and participating in competitive programming.
-- 🤝 Always open to collaborating on Open Source projects!
+- 🧠 **Current Focus:** Building agentic AI infrastructure, LLM routers, and executing robust API gateways (MCP).
+- ⛓️ **Web3 & Cloud:** Exploring decentralized applications, blockchain protocols, and containerized Docker deployments.
+- 💻 **Tech DNA:** Deeply invested in TypeScript, Next.js, Python, and PostgreSQL.
+- ⚡ **Fun Fact:** I use competitive programming (LeetCode) to keep my algorithmic problem-solving sharp.
+
+---
+
+## 🚀 Featured Projects
+
+*   **[Autonomous Docker Terminal Agent](https://github.com/6eyeuser/Autonomous-Terminal-Agent)**
+    *   A robust, TypeScript-based AI agent featuring a PTY executor, symlink-safe path jail, and automated tool handling operating within a secure Docker sandbox environment.
+*   **Enterprise MCP Gateway**
+    *   A high-performance backend routing architecture built with TypeScript, Node.js, PostgreSQL, and Prisma. 
+*   **Full-Stack Sports Betting Engine**
+    *   A comprehensive wagering platform with Next.js, Prisma, and Tailwind CSS, featuring automated settlement engines, The-Odds-API v4 integration, and seamless INR wallet payouts.
+*   **[Fake News Detector](https://github.com/6eyeuser/fake-news-detector)**
+    *   An open-source AI implementation for verifying and classifying information integrity.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
+### 🌐 Languages & AI / Web3
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,react,nextjs,nodejs,mongodb,mysql,git,linux,docker&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,java,solidity,ipfs&perline=10" alt="Languages and Web3" />
+  </a>
+</p>
+
+### ⚙️ Full-Stack & Infrastructure
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,prisma,postgres,mongodb,supabase,docker,linux,git&perline=12" alt="Full Stack and Infra" />
   </a>
 </p>
 
