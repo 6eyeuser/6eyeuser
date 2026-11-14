@@ -40,20 +40,52 @@ I am a developer pursuing my **B.Tech in Computer Science & Engineering** at **B
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technologies & Tools
 
-### 🌐 Languages & AI / Web3
+### 🧠 Applied AI & Agentic Engineering
+**Level 1: Core Languages & ML Frameworks**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,java,solidity,ipfs&perline=10" alt="Languages and Web3" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp&perline=10" alt="AI Core" />
   </a>
 </p>
 
-### ⚙️ Full-Stack & Infrastructure
+**Level 2: Agent Infrastructure & Environments**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,prisma,postgres,mongodb,supabase,docker,linux,git&perline=12" alt="Full Stack and Infra" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,postgres,bash&perline=10" alt="AI Infra" />
   </a>
+</p>
+
+**Level 3: LLMs, Platforms & Tooling**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white" alt="Supabase" />
+</p>
+
+---
+
+### ⛓️ Web3 & Blockchain Development
+**Level 1: Smart Contracts & Core Protocols**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=solidity,rust,js,ts&perline=10" alt="Web3 Core" />
+  </a>
+</p>
+
+**Level 2: dApp Stack (Decentralized Apps)**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,prisma&perline=10" alt="dApp Stack" />
+  </a>
+</p>
+
+**Level 3: Ecosystem & Storage**
+<p>
+  <img src="https://img.shields.io/badge/Web3.js-F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/IPFS-65C2CB.svg?style=for-the-badge&logo=IPFS&logoColor=white" alt="IPFS" />
 </p>
 
 ---
