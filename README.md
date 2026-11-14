@@ -1,109 +1,62 @@
-<p align="center">
-  <img src="https://i.imgflip.com/agh5e3.gif" height="180" />
-</p>
+<div align="center">
+  <h1>Hi there, I'm Kartik 👋</h1>
+  <h3>Web3 Developer | Full Stack | Problem Solver</h3>
 
-<h1 align="center">Hey 👋, I'm Kartik</h1>
-<h3 align="center">Web3 Developer • Full Stack • Problem Solver</h3>
+  <p>
+    <a href="https://discord.com/users/laplacesdemon00" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+    <a href="https://www.instagram.com/kartikn_yadav/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <!-- Add LinkedIn or Twitter/X here for professional networking! -->
+  </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Building%20the%20future%20of%20the%20web&fontColor=ffffff&fontSize=22&height=60"/>
-</p>
-
----
-
-## 🧠 About Me
-
-- 🎓 **B.Tech in Computer Science & Engineering**
-- 🏫 **Bundelkhand Institute of Engineering & Technology (BIET), Jhansi**
-- 📅 **Batch:** 2023 – 2027
-- 🌐 Interested in **Web3, Full Stack Development & Open Source**
-- ⚙️ Enjoy building **scalable systems & clean UI**
-- 🚀 Exploring **Blockchain × Cloud × AI**
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+the+future+of+the+web;Exploring+Blockchain+%C3%97+Cloud+%C3%97+AI;Scalable+Systems+%26+Clean+UI" alt="Typing SVG" />
+</div>
 
 ---
 
-## 📊 GitHub Activity
+## 👨‍💻 About Me
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=6eyeuser&theme=dark&hide_border=true"
-    height="180"
-  />
-</p>
+I am a passionate developer currently pursuing my **B.Tech in Computer Science & Engineering** at **Bundelkhand Institute of Engineering & Technology (BIET), Jhansi** (Class of 2027). 
 
----
-
-## 🧰 Technologies & Tools
-
-### 💻 Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
-</p>
+- 🔭 Currently building **scalable backend systems** and **clean user interfaces**.
+- 🌱 Actively learning and exploring the intersection of **Web3, Cloud computing, and AI**.
+- ⚡ Fun fact: I love solving complex algorithms and participating in competitive programming.
+- 🤝 Always open to collaborating on Open Source projects!
 
 ---
 
-### 🌐 Frontend Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32"/>
-</p>
-
----
-
-### 🧠 Backend & Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/>
-</p>
-
----
-
-### ⚙️ DevOps & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32"/>
-</p>
-
----
-
-## 🧩 Competitive Programming
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <b>LeetCode</b><br>
-      <img src="https://leetcard.jacoblin.cool/kartik26044?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
-    </td>
-    <td align="center">
-      <b>Codeforces</b><br>
-      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kartikn_yadav&theme=dark" />
-    </td>
-  </tr>
-</table>
-
----
-
-## Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/6eyeuser/6eyeuser/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 🌐 Connect With Me
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <a href="https://www.instagram.com/kartikn_yadav/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,react,nextjs,nodejs,mongodb,mysql,git,linux,docker&perline=8" alt="Tech Stack" />
   </a>
-  <a href="https://discord.com/users/laplacesdemon00" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord"/>
-  </a>
+</p>
+
+---
+
+## 📊 Stats & Competitive Programming
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6eyeuser&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/kartik26044?theme=tokyonight&font=JetBrains%20Mono&ext=heatmap" height="170" alt="LeetCode Stats"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=kartikn_yadav&theme=tokyonight" height="170" alt="Codeforces Stats"/>
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/6eyeuser/6eyeuser/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/6eyeuser/6eyeuser/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/6eyeuser/6eyeuser/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
