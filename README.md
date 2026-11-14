@@ -27,20 +27,31 @@ I am a developer pursuing my **B.Tech in Computer Science & Engineering** at **B
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technologies & Tools
 
-*   **[Autonomous Docker Terminal Agent](https://github.com/6eyeuser/Autonomous-Terminal-Agent)**
-    *   A robust, TypeScript-based AI agent featuring a PTY executor, symlink-safe path jail, and automated tool handling operating within a secure Docker sandbox environment.
-*   **Enterprise MCP Gateway**
-    *   A high-performance backend routing architecture built with TypeScript, Node.js, PostgreSQL, and Prisma. 
-*   **Full-Stack Sports Betting Engine**
-    *   A comprehensive wagering platform with Next.js, Prisma, and Tailwind CSS, featuring automated settlement engines, The-Odds-API v4 integration, and seamless INR wallet payouts.
-*   **[Fake News Detector](https://github.com/6eyeuser/fake-news-detector)**
-    *   An open-source AI implementation for verifying and classifying information integrity.
+### 💻 Full-Stack Engineering
+**Level 1: Frontend Ecosystem**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind&perline=10" alt="Frontend Core" />
+  </a>
+</p>
+
+**Level 2: Backend & Databases**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,supabase&perline=10" alt="Backend Core" />
+  </a>
+</p>
+
+**Level 3: Cloud, DevOps & Tools**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,npm&perline=10" alt="DevOps" />
+  </a>
+</p>
 
 ---
-
-## 🛠️ Technologies & Tools
 
 ### 🧠 Applied AI & Agentic Engineering
 **Level 1: Core Languages & ML Frameworks**
@@ -53,7 +64,7 @@ I am a developer pursuing my **B.Tech in Computer Science & Engineering** at **B
 **Level 2: Agent Infrastructure & Environments**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,postgres,bash&perline=10" alt="AI Infra" />
+    <img src="https://skillicons.dev/icons?i=bash&perline=10" alt="AI Infra" />
   </a>
 </p>
 
@@ -61,7 +72,6 @@ I am a developer pursuing my **B.Tech in Computer Science & Engineering** at **B
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white" alt="Supabase" />
 </p>
 
 ---
@@ -70,18 +80,11 @@ I am a developer pursuing my **B.Tech in Computer Science & Engineering** at **B
 **Level 1: Smart Contracts & Core Protocols**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,rust,js,ts&perline=10" alt="Web3 Core" />
+    <img src="https://skillicons.dev/icons?i=solidity,rust&perline=10" alt="Web3 Core" />
   </a>
 </p>
 
-**Level 2: dApp Stack (Decentralized Apps)**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,prisma&perline=10" alt="dApp Stack" />
-  </a>
-</p>
-
-**Level 3: Ecosystem & Storage**
+**Level 2: Ecosystem & Storage**
 <p>
   <img src="https://img.shields.io/badge/Web3.js-F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
